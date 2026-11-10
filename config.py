@@ -99,6 +99,8 @@ DEFAULT_CONFIG = {
         {"url": "https://raw.githubusercontent.com/HandsomeMJZ/cfip/main/best_ips.txt"},
         {"url": "https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt"},
         # 自选
+        {"url": "https://cdn.jsdelivr.net/gh/200111226011qw-debug/cf-ip-screener@main/result/clean-ips.txt",
+        "mirror_of":"https://raw.githubusercontent.com/200111226011qw-debug/cf-ip-screener/refs/heads/main/result/clean-ips.txt"},
         {"url": "https://bestcf.tools12345.com/WARP/WARP-MINI-443.txt"},
         {"url": "https://bestcf.tools12345.com/WARP/WARP-MINI-8443.txt"},
         {"url": "https://bestcf.tools12345.com/WARP/WARP-MINI.txt"},
