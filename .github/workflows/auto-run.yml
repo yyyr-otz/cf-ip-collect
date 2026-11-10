@@ -201,3 +201,10 @@ jobs:
               gh issue close "$n" --comment "已恢复：本轮产出正常，空结果连击归零。" || true
             done
           fi
+      - name: 清理工作流历史
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ secrets.MYPAT }}
+          repository: ${{ github.repository }}
+          retain_days: 0
+          keep_minimum_runs: 1
