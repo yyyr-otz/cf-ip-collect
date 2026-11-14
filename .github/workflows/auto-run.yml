@@ -11,8 +11,8 @@ on:
         description: "本次运行标签（记进日志，便于区分实验组）"
         required: false
         default: ""
-  schedule:                   # 定时触发：每 2 小时第 5 分钟（一天 12 次）
-    - cron: "5 */2 * * *"    # 一轮完整跑约 7.4 分钟，2 小时间隔保证不撞 concurrency
+  #schedule:                   # 定时触发：每 2 小时第 5 分钟（一天 12 次）
+  #  - cron: "5 */2 * * *"    # 一轮完整跑约 7.4 分钟，2 小时间隔保证不撞 concurrency
 
 # 并发控制：同一时间只允许一个 workflow 运行
 concurrency:
