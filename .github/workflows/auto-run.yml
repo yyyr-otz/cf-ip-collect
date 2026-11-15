@@ -82,6 +82,11 @@ jobs:
           cd "${PROJECT_DIR:-.}"
           python main.py --update-geo || echo "地理库更新失败，画像将降级为在线 ip-api"
 
+      - name: 安装并启动 WARP 双栈网络
+        uses: fscarmen/warp-on-actions@v1.3
+        with:
+          mode: dual  # 开启 IPv4 + IPv6 双栈
+
       # 单 job 一次跑出总表 + 三运营商分表 + 其他：
       # 不拆矩阵，避免多 job 并发写同一批 result/ 文件导致 rebase 冲突
       - name: 运行筛选（全运营商）
