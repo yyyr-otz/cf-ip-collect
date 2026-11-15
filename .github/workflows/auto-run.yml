@@ -85,6 +85,7 @@ jobs:
       - name: 安装并启动 WARP 双栈网络
         uses: fscarmen/warp-on-actions@v1.3
         with:
+          stack: ipv6
           mode: wireguard
 
       # 单 job 一次跑出总表 + 三运营商分表 + 其他：
