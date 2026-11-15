@@ -1,1 +1,1 @@
-104.17.138.106:443#麒麟优选 | 联通 | 104.17.138.106 | 163.00ms | 21.00mb/s | 速度19.99MB/s | 机房IAD | CA/Toronto | AS13335 Cloudflare, Inc.
+104.25.129.198:443#US301 [vvHan·联通] | 速度17.9MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
