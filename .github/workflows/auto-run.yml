@@ -81,19 +81,6 @@ jobs:
         run: |
           cd "${PROJECT_DIR:-.}"
           python main.py --update-geo || echo "地理库更新失败，画像将降级为在线 ip-api"
-
-      - name: 安装并启动 WARP 双栈网络
-        uses: fscarmen/warp-on-actions@v1.4
-        with:
-          stack: ipv6
-          mode: wireguard
-          
-      - name: 验证 IPv6 出口是否成功就绪
-        run: |
-          echo "=== 检查本地 IPv6 地址 ==="
-          ip -6 addr show
-          echo "=== 测试公共 IPv6 连通性与出口 IP ==="
-          curl -6 -m 5 -s https://www.cloudflare.com/cdn-cgi/trace | grep -E "ip=|colo=" || echo "::warning::WARP IPv6 出口探测失败，可能仍无 IPv6 连通性"
       # 单 job 一次跑出总表 + 三运营商分表 + 其他：
       # 不拆矩阵，避免多 job 并发写同一批 result/ 文件导致 rebase 冲突
       - name: 运行筛选（全运营商）
