@@ -1,1 +1,1 @@
-198.41.209.241:443#联通Default | 速度24.3MB/s | 机房SEA | CA/Toronto | AS13335 Cloudflare, Inc.
+104.17.138.106:443#麒麟优选 | 联通 | 104.17.138.106 | 163.00ms | 21.00mb/s | 速度19.99MB/s | 机房IAD | CA/Toronto | AS13335 Cloudflare, Inc.
