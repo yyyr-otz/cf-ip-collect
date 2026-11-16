@@ -420,7 +420,7 @@ DEFAULT_CONFIG = {
     # ========== 连通性测试参数 ==========
     "timeout": 3.0,          # 单次 TCP/TLS 探测超时（秒）
     "probes": 3,             # 每个 IP 的 TCP 探测次数（用于估算丢包）
-    "max_concurrency": 200,  # 并发探测上限
+    "max_concurrency": 400,  # 并发探测上限
     "tls_check": True,       # 是否额外做 TLS 握手校验（过滤非真实可服务的节点）
     "sni": "www.cloudflare.com",
 
