@@ -1,1 +1,2 @@
-108.162.198.11:2096#MoistR优选 | 电信优选 02 | 108.162.198.11:2096 | 速度19.71MB/s | 机房MSP | US/Ashburn | AS13335 Cloudflare, Inc.
+172.64.148.43:443#wetest电信SIN | 速度18.88MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+162.159.46.247:443#电信Default | 速度19.65MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
