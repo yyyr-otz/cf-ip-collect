@@ -1,8 +1,8 @@
 [
   {
-    "ip": "172.66.141.65",
+    "ip": "172.66.134.89",
     "port": 443,
-    "avg_ms": 5.9,
+    "avg_ms": 1.8,
     "loss_rate": 0.0,
     "tls_ok": true,
     "tls_fp": "TLSv1.3|TLS_AES_256_GCM_SHA384",
@@ -11,8 +11,8 @@
     "remark": "wetest移动HKG",
     "isp": "cmcc",
     "native": false,
-    "source": "https://raw.githubusercontent.com/suancaicc/cf-ip/main/ip.txt",
-    "speed_mbps": 22.08,
+    "source": "https://cdn.jsdelivr.net/gh/suancaicc/cf-ip@main/ip.txt",
+    "speed_mbps": 52.67,
     "colo": "IAD",
     "speed_rounds_ok": 3,
     "speed_rounds_total": 3,
@@ -30,7 +30,7 @@
     },
     "score": 100,
     "status": "good",
-    "checked_at": "2026-11-17T04:04:25.996968+00:00",
+    "checked_at": "2026-11-17T08:03:02.117290+00:00",
     "flags": {
       "residential": null,
       "datacenter": null,
