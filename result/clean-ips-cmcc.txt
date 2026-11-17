@@ -1,1 +1,1 @@
-172.64.145.94:2096#MoistR优选 | 移动优选 03 | 172.64.145.94:2096 | 速度21.66MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+104.17.221.165:443#HK56 [vvHan·移动] | 速度19.38MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
