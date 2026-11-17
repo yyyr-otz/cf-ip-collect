@@ -1,1 +1,1 @@
-104.16.2.166:443#SW7 [CFYes·电信] | 速度25.1MB/s | 机房SEA | CA/Toronto | AS13335 Cloudflare, Inc.
+104.17.32.18:443#电信Default | 速度73.26MB/s | 机房IAD | CA/Toronto | AS13335 Cloudflare, Inc.
