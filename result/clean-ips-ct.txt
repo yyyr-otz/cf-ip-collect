@@ -1,1 +1,1 @@
-104.18.46.63:443#wetest电信SIN | 速度13.28MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
+104.16.2.166:443#SW7 [CFYes·电信] | 速度25.1MB/s | 机房SEA | CA/Toronto | AS13335 Cloudflare, Inc.
