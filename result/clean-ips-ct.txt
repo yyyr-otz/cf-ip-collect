@@ -1,1 +1,2 @@
-104.17.32.18:443#电信Default | 速度73.26MB/s | 机房IAD | CA/Toronto | AS13335 Cloudflare, Inc.
+172.64.148.107:443#SW12 [麒麟优选·电信 44.63ms 9.25Mbps] | 速度19.62MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+104.18.39.14:443#wetest电信SIN | 速度19.54MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
