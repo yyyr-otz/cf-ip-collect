@@ -1,2 +1,1 @@
-104.16.221.169:443#wetest联通LAX | 速度13.62MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-104.18.114.180:443#wetest联通LAX | 速度13.54MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
+162.159.130.140:443#联通Default | 速度19.51MB/s | 机房SEA | US | AS13335 Cloudflare, Inc.
