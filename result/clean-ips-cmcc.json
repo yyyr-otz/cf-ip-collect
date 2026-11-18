@@ -1,8 +1,8 @@
 [
   {
-    "ip": "172.66.134.89",
+    "ip": "172.66.143.183",
     "port": 443,
-    "avg_ms": 1.8,
+    "avg_ms": 6.0,
     "loss_rate": 0.0,
     "tls_ok": true,
     "tls_fp": "TLSv1.3|TLS_AES_256_GCM_SHA384",
@@ -12,8 +12,8 @@
     "isp": "cmcc",
     "native": false,
     "source": "https://cdn.jsdelivr.net/gh/suancaicc/cf-ip@main/ip.txt",
-    "speed_mbps": 87.78,
-    "colo": "ATL",
+    "speed_mbps": 19.52,
+    "colo": "IAD",
     "speed_rounds_ok": 3,
     "speed_rounds_total": 3,
     "speed_rounds_measured": 3,
@@ -30,7 +30,7 @@
     },
     "score": 100,
     "status": "good",
-    "checked_at": "2026-11-17T10:02:38.384608+00:00",
+    "checked_at": "2026-11-18T12:03:04.641416+00:00",
     "flags": {
       "residential": null,
       "datacenter": null,

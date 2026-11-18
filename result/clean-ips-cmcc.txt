@@ -1,1 +1,1 @@
-172.66.134.89:443#wetest移动HKG | 速度87.78MB/s | 机房ATL | CA/Toronto | AS13335 Cloudflare, Inc.
+172.66.143.183:443#wetest移动HKG | 速度19.52MB/s | 机房IAD | CA/Toronto | AS13335 Cloudflare, Inc.
