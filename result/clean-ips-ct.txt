@@ -1,1 +1,4 @@
-104.16.92.233:443#麒麟优选 | 电信 | 104.16.92.233 | 157.49ms | 0.93mb/s | 速度19.26MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+104.19.204.98:443#wetest电信LAX | 速度18.94MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+104.18.43.77:443#电信 | 速度19.21MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+172.64.148.50:443#wetest电信SIN | 速度19.52MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+162.159.231.182:443#wetest电信FRA | 速度17.2MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
