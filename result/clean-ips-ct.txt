@@ -1,2 +1,2 @@
-172.64.146.193:443#wetest电信SIN | 速度21.71MB/s | 机房SEA | CA/Toronto | AS13335 Cloudflare, Inc.
-104.16.0.151:443#电信Default | 速度19.53MB/s | 机房SEA | CA/Toronto | AS13335 Cloudflare, Inc.
+172.64.148.80:443#电信 | 速度18.65MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+172.64.146.126:443#电信 | 速度19.1MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
