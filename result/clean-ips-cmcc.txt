@@ -1,2 +1,1 @@
-162.159.152.98:443#SW4 [CFYes·移动] | 速度23.71MB/s | 机房SEA | US | AS13335 Cloudflare, Inc.
-104.21.82.175:443#SW39 [麒麟优选·移动 96.06ms 4.29Mbps] | 速度21.56MB/s | 机房SEA | CA/Toronto | AS13335 Cloudflare, Inc.
+172.67.131.12:443#wetest移动LHR | 速度13.13MB/s | 机房DFW | CA/Toronto | AS13335 Cloudflare, Inc.
