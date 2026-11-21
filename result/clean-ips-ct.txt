@@ -1,2 +1,1 @@
-172.64.229.183:443#SW13 [麒麟优选·电信 81.65ms 0.67Mbps] | 速度10.41MB/s | 机房DFW | CA/Toronto | AS13335 Cloudflare, Inc.
-104.18.41.135:443#wetest电信SIN | 速度9.98MB/s | 机房DFW | CA/Toronto | AS13335 Cloudflare, Inc.
+104.18.38.17:443#电信 | 速度11.99MB/s | 机房DFW | CA/Toronto | AS13335 Cloudflare, Inc.
