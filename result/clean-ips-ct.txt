@@ -1,1 +1,1 @@
-172.64.144.145:443#麒麟优选 | 电信 | 172.64.144.145 | 44.11ms | 68.08mb/s | 速度62.2MB/s | 机房IAD | CA/Toronto | AS13335 Cloudflare, Inc.
+172.64.159.35:443#麒麟优选 | 电信 | 172.64.159.35 | 45.93ms | 0.87mb/s | 速度20.33MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
