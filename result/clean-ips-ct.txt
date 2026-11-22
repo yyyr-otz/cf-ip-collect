@@ -1,1 +1,6 @@
-172.64.159.35:443#麒麟优选 | 电信 | 172.64.159.35 | 45.93ms | 0.87mb/s | 速度20.33MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+104.19.151.143:443#SW15 [麒麟优选·电信 156.22ms 1.58Mbps] | 速度73.91MB/s | 机房ATL | CA/Toronto | AS13335 Cloudflare, Inc.
+104.19.215.137:443#SW16 [麒麟优选·电信 154.34ms 1.46Mbps] | 速度74.8MB/s | 机房ATL | CA/Toronto | AS13335 Cloudflare, Inc.
+104.16.143.223:443#SW20 [麒麟优选·电信 156.65ms 0.32Mbps] | 速度64.29MB/s | 机房ATL | CA/Toronto | AS13335 Cloudflare, Inc.
+104.17.11.108:443#SW14 [麒麟优选·电信 155.97ms 2.68Mbps] | 速度83.92MB/s | 机房ATL | CA/Toronto | AS13335 Cloudflare, Inc.
+104.21.233.196:443#SW12 [麒麟优选·电信 156.76ms 3.99Mbps] | 速度93.31MB/s | 机房ATL | CA/Toronto | AS13335 Cloudflare, Inc.
+104.19.75.189:443#麒麟优选 | 电信 | 104.19.75.189 | 157.41ms | 0.50mb/s | 速度59.87MB/s | 机房ATL | CA/Toronto | AS13335 Cloudflare, Inc.
