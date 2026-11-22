@@ -1,1 +1,1 @@
-172.66.209.192:443#SW40 [麒麟优选·移动 95.39ms 4.91Mbps] | 速度17.16MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+172.66.213.163:443#SW31 [麒麟优选·移动 97.61ms 7.28Mbps] | 速度16.65MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
