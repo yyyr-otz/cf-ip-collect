@@ -1,6 +1,6 @@
 [
   {
-    "ip": "104.17.150.215",
+    "ip": "104.17.132.27",
     "port": 443,
     "avg_ms": 6.6,
     "loss_rate": 0.0,
@@ -8,11 +8,11 @@
     "tls_fp": "TLSv1.3|TLS_AES_256_GCM_SHA384",
     "cert_ok": null,
     "http_ms": null,
-    "remark": "SW28 [麒麟优选·联通 169.14ms 11.73Mbps]",
+    "remark": "联通",
     "isp": "cu",
     "native": false,
-    "source": "https://yxip.1m.us.ci/data/all.txt",
-    "speed_mbps": 19.58,
+    "source": "https://raw.githubusercontent.com/vipmc838/cf_best_ip/main/cloudflare_bestip.txt",
+    "speed_mbps": 18.13,
     "colo": "MSP",
     "speed_rounds_ok": 3,
     "speed_rounds_total": 3,
@@ -30,7 +30,7 @@
     },
     "score": 100,
     "status": "good",
-    "checked_at": "2026-11-22T08:02:57.203878+00:00",
+    "checked_at": "2026-11-23T12:03:03.186284+00:00",
     "flags": {
       "residential": false,
       "datacenter": true,
