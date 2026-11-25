@@ -1,1 +1,1 @@
-104.17.149.28:443#SW27 [麒麟优选·联通 162.18ms 22.78Mbps] | 速度19.29MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+104.17.141.201:443#联通 | 速度17.83MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
