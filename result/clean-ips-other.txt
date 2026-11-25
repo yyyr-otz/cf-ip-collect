@@ -1,45 +1,50 @@
-141.148.187.195:443#CF筛选 | 6.4ms | 丢包0% | 速度7.72MB/s | 机房LAX | 外延段 | US/Phoenix | AS31898 Oracle Corporation
-209.146.115.31:443#US 美国¹⁵[20Mbps] | 速度6.33MB/s | 机房LAX | 外延段 | US | AS1054 Zont LLC
-172.65.40.162:443#CF筛选 | 8.8ms | 丢包0% | 域名可达(无速度数据) | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-104.17.0.6:443#US 🇺🇸 | 速度9.15MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-172.64.149.228:443#默认 | 速度10.19MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-104.20.57.149:443#CF筛选 | 8.8ms | 丢包0% | 速度8.17MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-172.67.69.5:443#US327 [NiREvil 116ms 0Mbps] | 速度10.61MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-104.17.144.209:443#US 🇺🇸 | 速度12.48MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-104.17.253.117:443#CF筛选 | 8.9ms | 丢包0% | 速度13.68MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-172.64.82.184:443#CF筛选 | 8.9ms | 丢包0% | 速度12.37MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-172.64.229.249:443#CF筛选 | 8.9ms | 丢包0% | 速度13.46MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-172.64.229.167:443#CF筛选 | 8.9ms | 丢包0% | 速度13.32MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-172.64.229.87:443#CF筛选 | 8.9ms | 丢包0% | 速度14.35MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-172.64.229.225:443#CF筛选 | 8.9ms | 丢包0% | 速度13.41MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-104.16.85.152:443#CF筛选 | 8.9ms | 丢包0% | 速度14.08MB/s | 机房LAX | 原生 | CA/Toronto | AS13335 Cloudflare, Inc.
-162.159.148.239:443#US8 [官方CF] | 速度13.54MB/s | 机房LAX | US | AS13335 Cloudflare, Inc.
-104.17.0.1:443#US 🇺🇸 | 速度13.07MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-172.64.229.80:443#CF筛选 | 9.0ms | 丢包0% | 速度9.08MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-104.21.107.208:443#CF筛选 | 9.0ms | 丢包0% | 速度12.12MB/s | 机房LAX | 原生 | CA/Toronto | AS13335 Cloudflare, Inc.
-172.65.252.225:443#CF筛选 | 9.1ms | 丢包0% | 域名可达(无速度数据) | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-172.65.253.243:443#CF筛选 | 9.1ms | 丢包0% | 域名可达(无速度数据) | 机房HAM | CA/Toronto | AS13335 Cloudflare, Inc.
-172.64.229.2:443#CF筛选 | 9.1ms | 丢包0% | 速度14.19MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-104.18.123.161:443#US 🇺🇸 | 速度13.16MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-172.64.229.175:443#CF筛选 | 9.1ms | 丢包0% | 速度13.65MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-172.67.132.133:443#CF筛选 | 9.1ms | 丢包0% | 速度13.27MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-172.64.146.52:443#SG 🇸🇬 | 速度11.92MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-104.18.242.89:443#US19 [官方CF] | 速度13.34MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-104.21.0.5:443#Gslege优选 | de 【德国】 DE | 104.21.0.5 | 速度13.44MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-64.64.253.198:443#US 美国¹⁸[20Mbps] | 速度6.73MB/s | 机房LAX | 外延段 | US/Los Angeles | AS25820 IT7 Networks Inc
-104.17.159.147:2083#HK 香港¹⁰⁸[10.54Mbps] | 速度12.78MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-172.65.197.211:443#CF筛选 | 9.2ms | 丢包0% | 域名可达(无速度数据) | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-172.65.197.111:443#CF筛选 | 9.2ms | 丢包0% | 域名可达(无速度数据) | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-104.18.250.159:443#US 🇺🇸 | 速度13.78MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-104.16.217.2:443#US 🇺🇸 | 速度13.3MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-104.18.38.124:443#US 🇺🇸 | 速度13.51MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-172.64.158.8:443#US 🇺🇸 | 速度12.99MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-190.93.245.31:443#CF筛选 | 9.2ms | 丢包0% | 速度12.42MB/s | 机房LAX | CR/Pozos | AS13335 Cloudflare, Inc.
-172.64.146.15:443#CF筛选 | 9.2ms | 丢包0% | 速度10.61MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-162.159.135.214:443#US5 [官方CF] | 速度13.6MB/s | 机房LAX | US | AS13335 Cloudflare, Inc.
-172.64.69.109:443#US7 [官方CF] | 速度13.12MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-104.19.124.139:443#US23 [官方CF] | 速度10.17MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-104.18.112.230:443#US55 [官方CF] | 速度11.22MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-104.19.206.158:443#US165 [官方CF] | 速度13.66MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-104.17.222.195:443#US306 [NiREvil 110ms 0Mbps] | 速度13.77MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-104.17.17.141:443#HK 香港¹²[29.93Mbps] | 速度13.37MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
+108.162.192.205:443#CF筛选 | 6.1ms | 丢包0% | 速度19.24MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+172.64.184.40:443#CF筛选 | 6.1ms | 丢包0% | 速度19.4MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+162.159.152.249:443#CF筛选 | 6.1ms | 丢包0% | 速度20.24MB/s | 机房MSP | US | AS13335 Cloudflare, Inc.
+162.159.128.205:443#CF筛选 | 6.1ms | 丢包0% | 速度19.9MB/s | 机房MSP | US | AS13335 Cloudflare, Inc.
+162.159.196.221:443#CF筛选 | 6.1ms | 丢包0% | 速度18.9MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+104.17.231.155:443#CF筛选 | 6.1ms | 丢包0% | 速度20.25MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+173.245.59.244:443#CF筛选 | 6.1ms | 丢包0% | 速度19.75MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+108.162.195.25:443#CF筛选 | 6.1ms | 丢包0% | 速度18.97MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+108.162.193.223:443#CF筛选 | 6.1ms | 丢包0% | 速度20.97MB/s | 机房MSP | 原生 | CA/Toronto | AS13335 Cloudflare, Inc.
+190.93.245.246:443#CF筛选 | 6.1ms | 丢包0% | 速度18.32MB/s | 机房MSP | 原生 | CR/Pozos | AS13335 Cloudflare, Inc.
+188.114.96.94:443#CF筛选 | 6.1ms | 丢包0% | 速度20.7MB/s | 机房MSP | 原生 | CA/Toronto | AS13335 Cloudflare, Inc.
+162.159.158.225:443#US10 [官方CF] | 速度19.9MB/s | 机房MSP | US | AS13335 Cloudflare, Inc.
+141.101.90.20:443#CF筛选 | 6.2ms | 丢包0% | 域名可达(无速度数据) | 机房HAM | 原生 | DE/Munich (Altstadt-Lehel) | AS13335 Cloudflare, Inc.
+190.93.247.42:443#CF筛选 | 6.2ms | 丢包0% | 速度19.43MB/s | 机房MSP | CR/Pozos | AS13335 Cloudflare, Inc.
+188.114.96.58:443#CF筛选 | 6.2ms | 丢包0% | 速度19.96MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+162.159.21.139:443#CF筛选 | 6.2ms | 丢包0% | 速度19.7MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+172.64.154.24:443#CF筛选 | 6.2ms | 丢包0% | 速度20.57MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+162.159.0.9:443#US 🇺🇸 | 速度19.88MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+172.64.32.4:443#US 🇺🇸 | 速度19.17MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+104.16.190.124:443#CF筛选 | 6.2ms | 丢包0% | 速度21.63MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+104.17.5.111:443#CF筛选 | 6.2ms | 丢包0% | 速度19.71MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+198.41.193.105:443#CF筛选 | 6.2ms | 丢包0% | 速度19.74MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+172.64.153.252:443#CF筛选 | 6.2ms | 丢包0% | 速度19.95MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+172.64.229.210:443#CF筛选 | 6.2ms | 丢包0% | 速度19.03MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+173.245.49.181:443#CF筛选 | 6.2ms | 丢包0% | 速度19.49MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+188.114.97.39:443#CF筛选 | 6.2ms | 丢包0% | 速度20.04MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+198.41.216.110:443#CF筛选 | 6.2ms | 丢包0% | 速度19.41MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+162.159.49.52:443#CF筛选 | 6.2ms | 丢包0% | 速度20.1MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+173.245.59.77:443#CF筛选 | 6.2ms | 丢包0% | 速度19.19MB/s | 机房MSP | 原生 | CA/Toronto | AS13335 Cloudflare, Inc.
+173.245.58.113:443#CF筛选 | 6.2ms | 丢包0% | 速度19.37MB/s | 机房MSP | 原生 | CA/Toronto | AS13335 Cloudflare, Inc.
+188.114.97.220:443#CF筛选 | 6.2ms | 丢包0% | 速度19.88MB/s | 机房MSP | 原生 | CA/Toronto | AS13335 Cloudflare, Inc.
+198.41.196.158:443#CF筛选 | 6.2ms | 丢包0% | 速度19.69MB/s | 机房MSP | 原生 | CA/Toronto | AS13335 Cloudflare, Inc.
+104.19.168.196:443#CF筛选 | 6.2ms | 丢包0% | 速度19.19MB/s | 机房MSP | 原生 | CA/Toronto | AS13335 Cloudflare, Inc.
+172.64.69.109:443#US5 [官方CF] | 速度20.12MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+172.64.88.95:443#CF筛选 | 6.3ms | 丢包0% | 速度18.92MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+172.64.69.37:443#CF筛选 | 6.3ms | 丢包0% | 速度18.9MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+172.64.189.9:443#CF筛选 | 6.3ms | 丢包0% | 速度18.31MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+172.64.147.154:443#SG 🇸🇬 | 速度20.02MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+172.64.151.79:443#SG 🇸🇬 | 速度19.86MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+104.17.0.8:443#US 🇺🇸 | 速度19.33MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+190.93.247.200:443#CF筛选 | 6.3ms | 丢包0% | 速度18.47MB/s | 机房MSP | CR/Pozos | AS13335 Cloudflare, Inc.
+190.93.244.134:443#CF筛选 | 6.3ms | 丢包0% | 速度20.25MB/s | 机房MSP | CR/Pozos | AS13335 Cloudflare, Inc.
+162.159.137.189:443#CF筛选 | 6.3ms | 丢包0% | 速度18.92MB/s | 机房MSP | US | AS13335 Cloudflare, Inc.
+172.64.153.221:443#CF筛选 | 6.3ms | 丢包0% | 速度19.48MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+172.64.186.252:443#CF筛选 | 6.3ms | 丢包0% | 速度19.86MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+172.64.189.94:443#CF筛选 | 6.3ms | 丢包0% | 速度19.07MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+172.65.233.171:443#CF筛选 | 6.7ms | 丢包0% | 域名可达(无速度数据) | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+172.65.10.185:443#CF筛选 | 1.9ms | 丢包0% | 域名可达(无速度数据) | 机房IAD | 原生 | CA/Toronto | AS13335 Cloudflare, Inc. | 域名可达(无速度数据) | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+172.65.46.56:443#CF筛选 | 7.2ms | 丢包0% | 域名可达(无速度数据) | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+172.65.221.66:443#CF筛选 | 7.4ms | 丢包0% | 域名可达(无速度数据) | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
