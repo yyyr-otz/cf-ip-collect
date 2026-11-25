@@ -1,18 +1,18 @@
 # CF 优选 IP 筛选报告
 
-- 时间: 2026-11-24 22:03:21
+- 时间: 2026-11-25 00:03:00
 - 候选池: 134 个 (成功 134 / 失败 0 / 跳过 0)
-- 解析候选: 17048 → 保留(去重后) 17048 → 已测 12156 → 测速 600 → 纯净 50（含 5 条域名可达但无速度数据）
+- 解析候选: 16982 → 保留(去重后) 16982 → 已测 11986 → 测速 600 → 纯净 50（含 5 条域名可达但无速度数据）
 > **探针盲区候选**：测速端点对它 403（不服务该 Host），但普通 CF 域名可达 → **对订阅者可用**，只是**没有速度数据**。它们的 score **不含速度项**（速度未知 ≠ 速度慢），与有速度数据的候选**不可直接比较**。
 
-- 耗时: 156.8s
+- 耗时: 133.8s
 
 ## 池命中率
 
 | 池 | 运营商 | 段 | 解析 | 保留 | 命中纯净 | 状态 |
 | --- | --- | --- | --- | --- | --- | --- |
 | https://ip.ehb.cc.cd/ | - | - | 20 | 20 | 0 | OK |
-| https://bestcf.pages.dev/wetest/ipv4.txt | - | - | 17 | 17 | 0 | OK |
+| https://bestcf.pages.dev/wetest/ipv4.txt | - | - | 16 | 16 | 0 | OK |
 | https://bestcf.pages.dev/cfyes/ipv4.txt | - | - | 12 | 12 | 0 | OK |
 | https://bestcf.pages.dev/domain/all.txt | - | - | 6 | 6 | 0 | OK |
 | https://bestcf.pages.dev/cmliu/all.txt | - | - | 32 | 32 | 0 | OK |
@@ -28,47 +28,47 @@
 | https://raw.githubusercontent.com/gshtwy/CF-DNS-Clone/main/wetest-cloudflare-v4.txt | - | - | 75 | 75 | 0 | OK |
 | https://raw.githubusercontent.com/svip-s/cloudflare_ip/main/best_ips.txt | - | - | 47 | 47 | 0 | OK |
 | https://raw.githubusercontent.com/svip-s/cloudflare_ip/main/full_ips.txt | - | - | 391 | 391 | 0 | OK |
-| https://raw.githubusercontent.com/XIU2/CloudflareSpeedTest/master/ip.txt | - | - | 1600 | 1600 | 11 | OK |
-| https://raw.githubusercontent.com/LancelotRar/best-cf-ips/main/best-cf-ip-scanned-top400.txt | - | - | 400 | 400 | 6 | OK |
-| https://raw.githubusercontent.com/sanzang-tango/best-cf-ip/main/best-cf-ipv4.txt | - | - | 317 | 317 | 2 | OK |
-| https://raw.githubusercontent.com/vipmc838/cf_best_ip/main/cloudflare_bestip.txt | - | - | 70 | 70 | 0 | OK |
-| https://raw.githubusercontent.com/suancaicc/cf-ip/main/ip.txt | - | - | 29 | 29 | 0 | OK |
-| https://raw.githubusercontent.com/KafeMars/best-ips-domains/main/cf-bestips.txt | - | - | 20 | 20 | 0 | OK |
+| https://raw.githubusercontent.com/XIU2/CloudflareSpeedTest/master/ip.txt | - | - | 1600 | 1600 | 12 | OK |
+| https://raw.githubusercontent.com/LancelotRar/best-cf-ips/main/best-cf-ip-scanned-top400.txt | - | - | 400 | 400 | 4 | OK |
+| https://raw.githubusercontent.com/sanzang-tango/best-cf-ip/main/best-cf-ipv4.txt | - | 外延1 | 317 | 317 | 1 | OK |
+| https://raw.githubusercontent.com/vipmc838/cf_best_ip/main/cloudflare_bestip.txt | - | - | 70 | 70 | 1 | OK |
+| https://raw.githubusercontent.com/suancaicc/cf-ip/main/ip.txt | - | - | 30 | 30 | 0 | OK |
+| https://raw.githubusercontent.com/KafeMars/best-ips-domains/main/cf-bestips.txt | - | - | 20 | 20 | 1 | OK |
 | https://raw.githubusercontent.com/aihddelyy/Cloudflare_ips/main/CFST.txt | - | - | 10 | 10 | 0 | OK |
 | https://raw.githubusercontent.com/yuanxiawan/cfipv4db/main/high_score_ips.txt | - | - | 15 | 15 | 0 | OK |
 | https://raw.githubusercontent.com/ymyuuu/IPDB/main/bestcf.txt | - | - | 15 | 15 | 0 | OK |
 | https://raw.githubusercontent.com/demon-hugo/CF-iP/main/cloudflare_ips-us.txt | - | - | 10 | 10 | 0 | OK |
 | https://raw.githubusercontent.com/demon-hugo/CF-iP/main/cloudflare_ips.txt | - | - | 10 | 10 | 0 | OK |
 | https://raw.githubusercontent.com/a2622113/cloudflare_IPv4/main/ip.txt | - | - | 126 | 126 | 0 | OK |
-| https://bestcf.pages.dev/s5gy/all.txt | - | - | 113 | 113 | 0 | OK |
+| https://bestcf.pages.dev/s5gy/all.txt | - | - | 79 | 79 | 0 | OK |
 | https://raw.githubusercontent.com/Coolapk-Code9527/Cloudflare-IP/main/ip.txt | - | - | 32 | 32 | 0 | OK |
 | https://raw.githubusercontent.com/einsitang/my-fast-cf-ip/master/fastips.txt | - | - | 20 | 20 | 0 | OK |
 | https://raw.githubusercontent.com/uezer/cf-prefer-ips/main/best.txt | - | - | 20 | 20 | 0 | OK |
-| https://raw.githubusercontent.com/aihddelyy/Cloudflare_ips/main/CF.txt | - | - | 21 | 21 | 0 | OK |
+| https://raw.githubusercontent.com/aihddelyy/Cloudflare_ips/main/CF.txt | - | - | 23 | 23 | 0 | OK |
 | https://cdn.jsdelivr.net/gh/joname1/BestCFip@main/ipv4.txt | - | - | 99 | 99 | 0 | OK |
-| https://cdn.jsdelivr.net/gh/joname1/BestCFip@main/ipv6.txt | - | - | 33 | 33 | 0 | OK |
+| https://cdn.jsdelivr.net/gh/joname1/BestCFip@main/ipv6.txt | - | - | 40 | 40 | 0 | OK |
 | https://cdn.jsdelivr.net/gh/hubbylei/bestcf@main/bestcf.txt | - | - | 10 | 10 | 0 | OK |
 | https://cdn.jsdelivr.net/gh/gshtwy/CF-DNS-Clone@main/wetest-cloudflare-v4.txt | - | - | 75 | 75 | 0 | OK |
 | https://cdn.jsdelivr.net/gh/svip-s/cloudflare_ip@main/best_ips.txt | - | - | 37 | 37 | 0 | OK |
 | https://cdn.jsdelivr.net/gh/svip-s/cloudflare_ip@main/full_ips.txt | - | - | 397 | 397 | 0 | OK |
-| https://cdn.jsdelivr.net/gh/XIU2/CloudflareSpeedTest@master/ip.txt | - | - | 1600 | 1600 | 5 | OK |
-| https://cdn.jsdelivr.net/gh/LancelotRar/best-cf-ips@main/best-cf-ip-scanned-top400.txt | - | - | 400 | 400 | 0 | OK |
+| https://cdn.jsdelivr.net/gh/XIU2/CloudflareSpeedTest@master/ip.txt | - | - | 1600 | 1600 | 9 | OK |
+| https://cdn.jsdelivr.net/gh/LancelotRar/best-cf-ips@main/best-cf-ip-scanned-top400.txt | - | - | 400 | 400 | 2 | OK |
 | https://cdn.jsdelivr.net/gh/sanzang-tango/best-cf-ip@main/best-cf-ipv4.txt | - | - | 317 | 317 | 0 | OK |
 | https://cdn.jsdelivr.net/gh/suancaicc/cf-ip@main/ip.txt | - | - | 30 | 30 | 0 | OK |
 | https://cdn.jsdelivr.net/gh/KafeMars/best-ips-domains@main/cf-bestips.txt | - | - | 20 | 20 | 0 | OK |
 | https://cdn.jsdelivr.net/gh/aihddelyy/Cloudflare_ips@main/CFST.txt | - | - | 10 | 10 | 0 | OK |
 | https://cdn.jsdelivr.net/gh/yuanxiawan/cfipv4db@main/high_score_ips.txt | - | - | 15 | 15 | 0 | OK |
 | https://cdn.jsdelivr.net/gh/ymyuuu/IPDB@main/bestcf.txt | - | - | 15 | 15 | 0 | OK |
-| https://ipdb.api.030101.xyz/?type=cfv4%3Bproxy | - | - | 1683 | 1683 | 5 | OK |
+| https://ipdb.api.030101.xyz/?type=cfv4%3Bproxy | - | 外延1 | 1683 | 1683 | 6 | OK |
 | https://ipdb.api.030101.xyz/?type=bestcf&country=true | - | - | 10 | 10 | 0 | OK |
-| https://www.cloudflare.com/ips-v4 | - | 原生 | 960 | 960 | 4 | OK |
+| https://www.cloudflare.com/ips-v4 | - | 原生 | 960 | 960 | 5 | OK |
 | https://www.cloudflare.com/ips-v6 | - | 原生 | 448 | 448 | 0 | OK |
 | https://raw.githubusercontent.com/kinghui-001/cfip/main/best_ips.txt | - | - | 23 | 23 | 0 | OK |
 | https://raw.githubusercontent.com/HandsomeMJZ/cfip/main/best_ips.txt | - | - | 7 | 7 | 0 | OK |
 | https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt | - | - | 10 | 10 | 0 | OK |
 | https://cdn.jsdelivr.net/gh/200111226011qw-debug/cf-ip-screener@main/result/clean-ips.txt | - | - | 50 | 50 | 2 | OK |
-| https://yxip.1m.us.ci/data/all.txt | - | - | 1410 | 1410 | 6 | OK |
-| https://yxip.1m.us.ci/data/all6.txt | - | - | 80 | 80 | 0 | OK |
+| https://yxip.1m.us.ci/data/all.txt | - | 外延3 | 1414 | 1414 | 4 | OK |
+| https://yxip.1m.us.ci/data/all6.txt | - | - | 78 | 78 | 0 | OK |
 | https://bestcf.tools12345.com/WARP/WARP-MINI-443.txt | - | - | 10 | 10 | 0 | OK |
 | https://bestcf.tools12345.com/WARP/WARP-MINI-8443.txt | - | - | 10 | 10 | 0 | OK |
 | https://bestcf.tools12345.com/WARP/WARP-MINI.txt | - | - | 8 | 8 | 0 | OK |
@@ -108,7 +108,7 @@
 | https://bestcf.tools12345.com/zhixuanwang/ipv4-onlyip.txt | - | - | 4 | 4 | 0 | OK |
 | https://cf.junzhen.qzz.io/best_ips.txt | - | - | 12 | 12 | 0 | OK |
 | https://cf.junzhen.qzz.io/best_ips_bj.txt | - | - | 27 | 27 | 0 | OK |
-| https://cdn.jsdelivr.net/gh/JieChaoCC/cf-ip-auto@main/data/ipapi.txt | - | - | 9 | 9 | 1 | OK |
+| https://cdn.jsdelivr.net/gh/JieChaoCC/cf-ip-auto@main/data/ipapi.txt | - | - | 7 | 7 | 0 | OK |
 | https://cdn.jsdelivr.net/gh/LancelotRar/best-cf-ips@main/best-cf-ip-scanned-top400.txt | - | - | 400 | 400 | 0 | OK |
 | https://cdn.jsdelivr.net/gh/ahang39/router@main/all.txt | - | - | 5 | 5 | 0 | OK |
 | https://cdn.jsdelivr.net/gh/cmliu/WorkerVless2sub@main/addressesapi.txt | - | - | 4 | 4 | 0 | OK |
@@ -116,19 +116,19 @@
 | https://cdn.jsdelivr.net/gh/gshtwy/CF-DNS-Clone@main/wetest-cloudflare-v4.txt | - | - | 75 | 75 | 0 | OK |
 | https://cdn.jsdelivr.net/gh/hubbylei/bestcf@main/bestcf.txt | - | - | 10 | 10 | 0 | OK |
 | https://cdn.jsdelivr.net/gh/love-ztm/cfip@main/best_ips.txt | - | - | 3 | 3 | 0 | OK |
-| https://cdn.jsdelivr.net/gh/love-ztm/cfip@main/ubest_ips.txt | - | - | 8 | 8 | 0 | OK |
+| https://cdn.jsdelivr.net/gh/love-ztm/cfip@main/ubest_ips.txt | - | - | 3 | 3 | 0 | OK |
 | https://cdn.jsdelivr.net/gh/svip-s/cloudflare_ip@main/best_ips.txt | - | - | 37 | 37 | 0 | OK |
 | https://cdn.jsdelivr.net/gh/ymyuuu/IPDB@main/BestCF/bestcfv4.txt | - | - | 10 | 10 | 0 | OK |
 | https://cdn.jsdelivr.net/gh/ymyuuu/IPDB@main/BestCF/bestcfv6.txt | - | - | 10 | 10 | 0 | OK |
-| https://cdn.jsdelivr.net/gh/yuanxiawan/cfipv4db@main/cfip.txt | - | - | 13 | 13 | 1 | OK |
+| https://cdn.jsdelivr.net/gh/yuanxiawan/cfipv4db@main/cfip.txt | - | - | 15 | 15 | 0 | OK |
 | https://cdn.jsdelivr.net/gh/yuanxiawan/ipscan-pages@main/output/ips.txt | - | - | 20 | 20 | 0 | OK |
-| https://cdn.jsdelivr.net/gh/spew1165/cf-yx@main/ip/cf-speed-dns-top10.txt | - | - | 2 | 2 | 0 | OK |
+| https://cdn.jsdelivr.net/gh/spew1165/cf-yx@main/ip/cf-speed-dns-top10.txt | - | - | 1 | 1 | 0 | OK |
 | https://cdn.jsdelivr.net/gh/xxzh72/yxym@main/ip.txt | - | - | 77 | 77 | 0 | OK |
 | https://cdn.jsdelivr.net/gh/meishero/cf-bestip@main/best_ip_dianxin.txt | - | - | 15 | 15 | 0 | OK |
 | https://cdn.jsdelivr.net/gh/meishero/cf-bestip@main/best_ip_yidong.txt | - | - | 15 | 15 | 0 | OK |
 | https://cdn.jsdelivr.net/gh/YiMing918/ym-cfip@main/data/full.txt | - | - | 387 | 387 | 0 | OK |
-| https://cdn.jsdelivr.net/gh/YiMing918/ym-cfip@main/data/all6.txt | - | - | 71 | 71 | 0 | OK |
-| https://cdn.jsdelivr.net/gh/jifengwind/HHP-cf-ips@main/ips.txt | - | - | 27 | 27 | 0 | OK |
+| https://cdn.jsdelivr.net/gh/YiMing918/ym-cfip@main/data/all6.txt | - | - | 69 | 69 | 0 | OK |
+| https://cdn.jsdelivr.net/gh/jifengwind/HHP-cf-ips@main/ips.txt | - | - | 26 | 26 | 0 | OK |
 | https://cdn.jsdelivr.net/gh/luckyops/cf-pool@main/add.txt | - | - | 40 | 40 | 0 | OK |
 | https://cdn.jsdelivr.net/gh/minghe168/cfip-auto@main/best_ips.txt | - | - | 0 | 0 | 0 | OK |
 | https://cdn.jsdelivr.net/gh/burylove-baby/cf-ips@main/ai.txt | - | - | 8 | 8 | 0 | OK |
@@ -136,15 +136,15 @@
 | https://cdn.jsdelivr.net/gh/kele9988/cf-best-ip@main/best.txt | - | - | 28 | 28 | 0 | OK |
 | https://cdn.jsdelivr.net/gh/kele9988/cf-best-ip@main/day1.txt | - | - | 159 | 159 | 0 | OK |
 | https://cdn.jsdelivr.net/gh/kele9988/cf-best-ip@main/day2.txt | - | - | 152 | 152 | 0 | OK |
-| https://cdn.jsdelivr.net/gh/kele9988/cf-best-ip@main/time0.txt | - | - | 109 | 109 | 0 | OK |
+| https://cdn.jsdelivr.net/gh/kele9988/cf-best-ip@main/time0.txt | - | - | 75 | 75 | 0 | OK |
 | https://cdn.jsdelivr.net/gh/kele9988/cf-best-ip@main/time12.txt | - | - | 159 | 159 | 0 | OK |
 | https://cdn.jsdelivr.net/gh/kele9988/cf-best-ip@main/time16.txt | - | - | 161 | 161 | 0 | OK |
 | https://cdn.jsdelivr.net/gh/kele9988/cf-best-ip@main/time2.txt | - | - | 154 | 154 | 0 | OK |
-| https://cdn.jsdelivr.net/gh/kele9988/cf-best-ip@main/time20.txt | - | - | 177 | 177 | 0 | OK |
+| https://cdn.jsdelivr.net/gh/kele9988/cf-best-ip@main/time20.txt | - | 外延2 | 177 | 177 | 2 | OK |
 | https://cdn.jsdelivr.net/gh/kele9988/cf-best-ip@main/time4.txt | - | - | 154 | 154 | 0 | OK |
-| https://cdn.jsdelivr.net/gh/kele9988/cf-best-ip@main/time8.txt | - | - | 157 | 157 | 2 | OK |
+| https://cdn.jsdelivr.net/gh/kele9988/cf-best-ip@main/time8.txt | - | - | 157 | 157 | 0 | OK |
 | https://cdn.jsdelivr.net/gh/kele9988/cf-best-ip@main/topbest.txt | - | - | 1 | 1 | 0 | OK |
-| https://cdn.jsdelivr.net/gh/kele9988/cf-best-ip@main/web.txt | - | - | 1874 | 1874 | 4 | OK |
+| https://cdn.jsdelivr.net/gh/kele9988/cf-best-ip@main/web.txt | - | - | 1874 | 1874 | 0 | OK |
 
 ## 延迟分布 (ms)
 | 区间 | 数量 |
@@ -161,66 +161,65 @@
 | <1 | 0 |
 | <3 | 0 |
 | <5 | 0 |
-| <10 | 0 |
-| >=10 | 45 |
+| <10 | 7 |
+| >=10 | 38 |
 
 ## 机房地区分布 (Top)
 | 机房 | 数量 |
 | --- | --- |
-| MSP | 49 |
-| VIE | 1 |
+| LAX | 50 |
 
 ## 纯净 IP 明细
 
 | IP:端口 | 延迟(ms) | 丢包 | TLS | 速度(MB/s) | 机房 | 原生 | 段 | 分数 | 分数构成 | 达标轮次 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 172.66.215.91:443 | 6.0 | 0% | OK | 19.69 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 173.245.58.144:443 | 6.1 | 0% | OK | 20.27 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 172.66.212.154:443 | 6.2 | 0% | OK | 21.20 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 172.67.201.232:443 | 6.2 | 0% | OK | 20.05 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 104.18.88.91:443 | 6.2 | 0% | OK | 19.23 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 172.64.156.206:443 | 6.2 | 0% | OK | 19.08 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 104.18.37.149:443 | 6.2 | 0% | OK | 19.07 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 104.16.236.251:443 | 6.2 | 0% | OK | 19.81 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 172.65.172.77:443 | 6.3 | 0% | OK | - | MSP | - | 公告段 | 95 good | 延迟+20 丢包+15 速度 未测(0) TLS+10 colo+10 反标记-20 | - |
-| 172.66.206.63:443 | 6.3 | 0% | OK | 18.22 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 172.66.156.231:443 | 6.3 | 0% | OK | 19.15 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 172.66.211.178:443 | 6.3 | 0% | OK | 19.75 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 104.17.149.28:443 | 6.3 | 0% | OK | 19.29 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 104.25.240.96:443 | 6.3 | 0% | OK | 19.73 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 172.66.143.247:443 | 6.3 | 0% | OK | 20.80 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 172.65.37.23:443 | 6.4 | 0% | OK | - | MSP | - | 公告段 | 95 good | 延迟+20 丢包+15 速度 未测(0) TLS+10 colo+10 反标记-20 | - |
-| 104.25.56.100:443 | 6.4 | 0% | OK | 20.95 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 172.66.162.132:443 | 6.4 | 0% | OK | 17.12 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 172.67.99.4:443 | 6.4 | 0% | OK | 19.75 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 172.67.183.206:443 | 6.4 | 0% | OK | 19.72 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 104.16.193.217:443 | 6.4 | 0% | OK | 19.66 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 104.19.43.163:443 | 6.4 | 0% | OK | 20.37 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 172.64.229.164:443 | 6.4 | 0% | OK | 20.74 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 162.159.146.179:443 | 6.4 | 0% | OK | 19.41 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 104.16.69.110:443 | 6.4 | 0% | OK | 20.43 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 104.24.145.241:443 | 6.4 | 0% | OK | 19.83 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 104.27.117.40:443 | 6.4 | 0% | OK | 21.05 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 104.17.15.179:443 | 6.4 | 0% | OK | 20.53 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 104.18.21.212:443 | 6.4 | 0% | OK | 19.88 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 104.17.175.251:443 | 6.4 | 0% | OK | 19.34 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 104.18.53.70:443 | 6.4 | 0% | OK | 18.88 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 162.159.46.131:443 | 6.4 | 0% | OK | 18.90 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 172.64.229.28:2083 | 6.4 | 0% | OK | 17.51 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 104.17.120.125:443 | 6.4 | 0% | OK | 21.90 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 104.17.121.38:443 | 6.4 | 0% | OK | 18.94 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 104.17.60.15:2096 | 6.4 | 0% | OK | 18.98 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 104.17.122.80:2053 | 6.4 | 0% | OK | 20.50 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 172.65.211.142:443 | 6.5 | 0% | OK | - | VIE | 是 | 公告段 | 100 good | 延迟+20 丢包+15 速度 未测(0) TLS+10 colo+10 原生段+10 反标记-20 (合计105→封顶100) | - |
-| 162.159.192.219:443 | 6.5 | 0% | OK | 19.49 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 104.19.170.21:443 | 6.5 | 0% | OK | 19.67 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 104.18.187.152:443 | 6.5 | 0% | OK | 19.59 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 104.18.154.54:443 | 6.5 | 0% | OK | 18.12 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 104.26.2.147:443 | 6.5 | 0% | OK | 20.33 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 104.17.159.101:443 | 6.5 | 0% | OK | 21.69 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 172.64.229.232:443 | 6.5 | 0% | OK | 18.44 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 104.27.92.8:443 | 6.5 | 0% | OK | 20.10 | MSP | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
-| 162.159.134.150:443 | 6.5 | 0% | OK | 19.81 | MSP | 是 | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 原生段+10 反标记-20 (合计120→封顶100) | 3/3 |
-| 172.67.117.104:443 | 6.5 | 0% | OK | 18.42 | MSP | 是 | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 原生段+10 反标记-20 (合计120→封顶100) | 3/3 |
-| 172.65.243.15:443 | 6.6 | 0% | OK | - | MSP | - | 公告段 | 95 good | 延迟+20 丢包+15 速度 未测(0) TLS+10 colo+10 反标记-20 | - |
-| 172.65.51.184:443 | 6.6 | 0% | OK | - | MSP | 是 | 公告段 | 100 good | 延迟+20 丢包+15 速度 未测(0) TLS+10 colo+10 原生段+10 反标记-20 (合计105→封顶100) | - |
+| 141.148.187.195:443 | 3.1 | 0% | OK | 7.39 | LAX | - | 外延段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 129.146.231.203:443 | 7.6 | 0% | OK | 7.99 | LAX | - | 外延段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 74.211.98.167:443 | 8.4 | 0% | OK | 7.91 | LAX | - | 外延段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 107.191.58.226:443 | 8.4 | 0% | OK | 7.80 | LAX | - | 外延段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 74.211.103.200:443 | 8.4 | 0% | OK | 7.98 | LAX | - | 外延段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 64.64.253.198:443 | 8.4 | 0% | OK | 7.82 | LAX | - | 外延段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 38.55.111.141:443 | 8.5 | 0% | OK | 7.48 | LAX | - | 外延段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 (合计130→封顶100) | 3/3 |
+| 190.93.244.28:443 | 8.6 | 0% | OK | 13.43 | LAX | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 172.64.229.175:443 | 8.6 | 0% | OK | 13.53 | LAX | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 162.159.82.36:443 | 8.6 | 0% | OK | 13.29 | LAX | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 172.65.254.178:443 | 8.7 | 0% | OK | - | LAX | - | 公告段 | 95 good | 延迟+20 丢包+15 速度 未测(0) TLS+10 colo+10 反标记-20 | - |
+| 172.64.229.61:443 | 8.7 | 0% | OK | 13.59 | LAX | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 172.67.126.251:443 | 8.7 | 0% | OK | 13.02 | LAX | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 172.64.157.95:443 | 8.7 | 0% | OK | 13.46 | LAX | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 172.64.148.35:443 | 8.7 | 0% | OK | 13.42 | LAX | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 104.18.13.242:443 | 8.7 | 0% | OK | 13.19 | LAX | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 198.41.200.180:443 | 8.7 | 0% | OK | 13.74 | LAX | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 198.41.197.252:443 | 8.7 | 0% | OK | 13.32 | LAX | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 172.66.167.27:443 | 8.7 | 0% | OK | 13.55 | LAX | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 141.101.113.206:443 | 8.7 | 0% | OK | 13.52 | LAX | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 198.41.216.254:443 | 8.7 | 0% | OK | 13.30 | LAX | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 172.66.147.172:443 | 8.7 | 0% | OK | 13.01 | LAX | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 172.65.33.81:443 | 8.8 | 0% | OK | - | LAX | 是 | 公告段 | 100 good | 延迟+20 丢包+15 速度 未测(0) TLS+10 colo+10 原生段+10 反标记-20 (合计105→封顶100) | - |
+| 141.101.114.163:443 | 8.8 | 0% | OK | 13.23 | LAX | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 198.41.205.174:443 | 8.8 | 0% | OK | 13.97 | LAX | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 104.27.122.119:443 | 8.8 | 0% | OK | 13.47 | LAX | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 172.64.176.153:443 | 8.8 | 0% | OK | 13.65 | LAX | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 172.64.229.70:443 | 8.8 | 0% | OK | 13.20 | LAX | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 172.64.229.15:443 | 8.8 | 0% | OK | 14.06 | LAX | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 172.64.229.71:443 | 8.8 | 0% | OK | 12.99 | LAX | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 172.64.147.154:443 | 8.8 | 0% | OK | 13.25 | LAX | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 172.64.155.60:443 | 8.8 | 0% | OK | 13.39 | LAX | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 104.24.229.115:443 | 8.8 | 0% | OK | 13.85 | LAX | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 190.93.245.101:443 | 8.8 | 0% | OK | 12.93 | LAX | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 190.93.245.64:443 | 8.8 | 0% | OK | 13.29 | LAX | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 162.159.158.166:443 | 8.8 | 0% | OK | 13.22 | LAX | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 172.64.75.73:443 | 8.8 | 0% | OK | 13.03 | LAX | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 104.18.43.64:443 | 8.8 | 0% | OK | 13.43 | LAX | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 172.64.158.149:443 | 8.8 | 0% | OK | 13.40 | LAX | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 141.101.123.173:443 | 8.8 | 0% | OK | 13.28 | LAX | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 190.93.247.88:443 | 8.8 | 0% | OK | 13.75 | LAX | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 162.159.84.80:443 | 8.8 | 0% | OK | 13.30 | LAX | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 104.20.31.246:443 | 8.8 | 0% | OK | 14.01 | LAX | - | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 反标记-20 (合计110→封顶100) | 3/3 |
+| 190.93.244.45:443 | 8.8 | 0% | OK | 13.51 | LAX | 是 | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 原生段+10 反标记-20 (合计120→封顶100) | 3/3 |
+| 188.114.98.18:443 | 8.8 | 0% | OK | 11.56 | LAX | 是 | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 原生段+10 反标记-20 (合计120→封顶100) | 3/3 |
+| 198.41.192.212:443 | 8.8 | 0% | OK | 14.07 | LAX | 是 | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 原生段+10 反标记-20 (合计120→封顶100) | 3/3 |
+| 198.41.216.59:443 | 8.8 | 0% | OK | 13.44 | LAX | 是 | 公告段 | 100 good | 延迟+20 丢包+15 速度+15 TLS+10 colo+10 原生段+10 反标记-20 (合计120→封顶100) | 3/3 |
+| 172.65.172.77:443 | 9.0 | 0% | OK | - | LAX | - | 公告段 | 95 good | 延迟+20 丢包+15 速度 未测(0) TLS+10 colo+10 反标记-20 | - |
+| 172.65.254.117:443 | 9.1 | 0% | OK | - | LAX | - | 公告段 | 95 good | 延迟+20 丢包+15 速度 未测(0) TLS+10 colo+10 反标记-20 | - |
+| 172.65.134.204:443 | 9.2 | 0% | OK | - | LAX | - | 公告段 | 95 good | 延迟+20 丢包+15 速度 未测(0) TLS+10 colo+10 反标记-20 | - |
