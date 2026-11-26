@@ -1,1 +1,3 @@
-104.17.139.153:443#联通 | 速度10.69MB/s | 机房DFW | CA/Toronto | AS13335 Cloudflare, Inc. | 速度20.14MB/s | 机房SEA | CA/Toronto | AS13335 Cloudflare, Inc.
+104.17.135.91:443#SW73 [vvHan·联通 163.76ms 23.43Mbps] | 速度13.29MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
+104.17.128.78:443#SW72 [vvHan·联通 161.49ms 22.95Mbps] | 速度13.15MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
+104.17.143.132:443#SW74 [vvHan·联通 163.95ms 18.92Mbps] | 速度13.33MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
