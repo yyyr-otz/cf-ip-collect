@@ -1,3 +1,1 @@
-172.64.149.232:443#电信 | 速度13.77MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-104.17.193.76:443#SW14 [麒麟优选·电信 160.54ms 0.85Mbps] | 速度13.05MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
-172.64.158.12:443#SW19 [麒麟优选·电信 44.83ms 0.33Mbps] | 速度13.42MB/s | 机房LAX | CA/Toronto | AS13335 Cloudflare, Inc.
+104.19.95.110:443#SW6 [CFYes·电信] | 速度26.7MB/s | 机房SEA | CA/Toronto | AS13335 Cloudflare, Inc.
