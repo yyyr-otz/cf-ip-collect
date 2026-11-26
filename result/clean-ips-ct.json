@@ -1,8 +1,8 @@
 [
   {
-    "ip": "104.19.95.110",
+    "ip": "104.17.159.124",
     "port": 443,
-    "avg_ms": 5.0,
+    "avg_ms": 17.8,
     "loss_rate": 0.0,
     "tls_ok": true,
     "tls_fp": "TLSv1.3|TLS_AES_256_GCM_SHA384",
@@ -12,8 +12,8 @@
     "isp": "ct",
     "native": false,
     "source": "https://yxip.1m.us.ci/data/all.txt",
-    "speed_mbps": 26.7,
-    "colo": "SEA",
+    "speed_mbps": 6.59,
+    "colo": "DFW",
     "speed_rounds_ok": 3,
     "speed_rounds_total": 3,
     "speed_rounds_measured": 3,
@@ -30,7 +30,7 @@
     },
     "score": 100,
     "status": "good",
-    "checked_at": "2026-11-26T00:02:52.038891+00:00",
+    "checked_at": "2026-11-26T06:04:34.341628+00:00",
     "flags": {
       "residential": false,
       "datacenter": true,
