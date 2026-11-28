@@ -1,1 +1,2 @@
-104.26.9.2:443#wetest移动SEA | 速度47.55MB/s | 机房ORD | CA/Toronto | AS13335 Cloudflare, Inc.
+172.66.136.252:443#SW57 [vvHan·移动 63.08ms 13.15Mbps] | 速度19.38MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
+172.66.138.12:443#SW56 [vvHan·移动 56.23ms 13.39Mbps] | 速度19.11MB/s | 机房MSP | CA/Toronto | AS13335 Cloudflare, Inc.
